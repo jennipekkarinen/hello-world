@@ -1,2 +1,4 @@
 # hello-world
-Practising
+Practising!
+
+You don´t learn without mistakes.
